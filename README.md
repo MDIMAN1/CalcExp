@@ -1,5 +1,6 @@
 # CalcExp
 Калькулятор продолжительности стажа сотрудника для Astra Linux и Windows.
+
 Employee Length of Service Calculator for Astra Linux and Windows.
 
 В связи с переходом с ОС Windows на Astra Linux, потребовался калькулятор для подсчета стажа, для этих целей сделал небольшую программку.
